@@ -5,4 +5,4 @@
 ### Pierre Boulez
 ### Alban Berg
 ### Anton Webern
-### Arnold Schömberg
+### Arnold Schönberg
