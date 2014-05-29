@@ -5,7 +5,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
 
 [Organismos musicales](https://github.com/essteban/matematicasAplicadasMusica/blob/master/divulgacion.md)
 
-  1.El silencio y la aleatoridad ambiental
+  [1.El silencio y la aleatoridad](https://github.com/essteban/matematicasAplicadasMusica/blob/master/silencioAleatoriedad.md)
     1.1 Noise
   2.Autogeneración y evolución autonoma
   3.Música Fractal y estructuras autoreplicativas
