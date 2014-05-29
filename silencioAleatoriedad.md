@@ -1,3 +1,5 @@
 ### El silencio y la aleatoriedad
 
-[John Cage](http://cdn.visualnews.com/wp-content/uploads/2013/09/John-Cage-5.jpg)
+
+<img src"https://github.com/essteban/matematicasAplicadasMusica/blob/master/Cage.md">
+John Cage
