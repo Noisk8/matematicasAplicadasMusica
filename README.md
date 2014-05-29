@@ -19,7 +19,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
 
   [1.Música concreta (grabación y secuenciadores)](https://github.com/electropipe/secuenciadores)
   
-  2.Música microtonal 
+  [2.Música microtonal](https://github.com/essteban/matematicasAplicadasMusica/blob/master/microtonal.md)
   
   [3.Música serial](https://github.com/essteban/matematicasAplicadasMusica/blob/master/serialismo.md)
 
