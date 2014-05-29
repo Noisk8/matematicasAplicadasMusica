@@ -21,7 +21,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
   
   2.Música microtonal 
   
-  3.Música serial
+  [3.Música serial](https://github.com/essteban/matematicasAplicadasMusica/blob/master/serialismo.md)
 
 ***
 
