@@ -13,7 +13,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
   
   4.Música Fractal y estructuras autoreplicativas
   
-  5.Música estocástica
+  [5.Música estocástica](https://github.com/essteban/matematicasAplicadasMusica/blob/master/musicaEstocastica.md)
   
 ###Composición asistida 
 
