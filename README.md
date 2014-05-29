@@ -7,13 +7,13 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
 
   [1.El silencio y la aleatoridad](https://github.com/essteban/matematicasAplicadasMusica/blob/master/silencioAleatoriedad.md)
   
-    [1.1 Noise](https://github.com/essteban/matematicasAplicadasMusica/blob/master/Noise.md)
+  [2 Noise](https://github.com/essteban/matematicasAplicadasMusica/blob/master/Noise.md)
     
-  2.Autogeneración y evolución autonoma
+  3.Autogeneración y evolución autonoma
   
-  3.Música Fractal y estructuras autoreplicativas
+  4.Música Fractal y estructuras autoreplicativas
   
-  4.Música estocástica
+  5.Música estocástica
   
 ###Composición asistida 
 
