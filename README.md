@@ -17,4 +17,4 @@ Composición asistida
   2.Música microtonal 
   3.Música serial
 
-Practicas
+[Prácticas](https://github.com/essteban/matematicasAplicadasMusica/blob/master/practicas.md)
