@@ -1,14 +1,16 @@
 # Organismos musicales
 
-### El silencio y la aleatoridad ambiental
+### El silencio y la aleatoriedad ambiental
 ### Autogeneración y evolución autónoma
-### Transformaciones y estructuras autoreplicativas
+### Estructuras autoreplicativas
 ***
-Los fenómenos musicales pueden desarrollarse como organismos autónomos de manera natural, pueden autogenerarse o autoreplicarse usando herramientas matemáticas y evolucionar a estados complejos; Música futurista que puede interectuar consigo misma o con el enterno.
+Los fenómenos musicales pueden desarrollarse como organismos autónomos de manera natural, pueden autogenerarse o autoreplicarse usando herramientas matemáticas y evolucionar a estados complejos; Música futurista que puede interactuar consigo misma o con el entorno.
 ***
 La música puede nacer como iniciativa particular de un individuo o colectivo creativo (el compositor, o compositores según el caso), y durante gran parte de la historia occidental esta fue la única forma en la que fue concebido el proceso creativo-musical.
-Gracias a las nuevas perspectivas filosóficas y la gran capacidad de cómputo actual, es posible generar parametros que hagan posible la creación de organismos musicales con autonomia generativa.
+Gracias a las nuevas perspectivas filosóficas y la gran capacidad de cómputo actual, es posible generar parámetros que hagan posible la creación de organismos musicales con autonomía generativa.
 ***
-Los filósofos griegos, y en especial Pitágoras intentaron unificar los fenomenos del mundo físico y el mundo espiritual en terminos de números, en el caso de Pitágoras, la unificación de la música con la abstracción numérica se hizo al descubrir que los sonidos más armónicos al oido nacian como proporciones entre números enteros...
+[Un poco de historia](https://github.com/essteban/matematicasAplicadasMusica/blob/master/historia.md)
 ***
-[Práctica]
+Es posible usar cualquier teoría matemática en el desarrollo de una creación sonora, lo importante es ser creativo en el enfoque y tener una buena capacidad de resolver problemas.
+***
+[Prácticas]
