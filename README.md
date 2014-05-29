@@ -23,4 +23,6 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
   
   3.Música serial
 
+***
+
 [Prácticas](https://github.com/essteban/matematicasAplicadasMusica/blob/master/practicas.md)
