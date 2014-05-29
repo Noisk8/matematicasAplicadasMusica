@@ -1,4 +1,6 @@
-##Historia
+## Un poco de historia
+
+***
 
 Los filósofos griegos, y en especial Pitágoras intentaron unificar los fenómenos del mundo físico y el mundo espiritual en términos de números,
 en el caso de Pitágoras, la unificación de la música con la abstracción numérica se hizo al descubrir que los sonidos más armónicos al oído 
