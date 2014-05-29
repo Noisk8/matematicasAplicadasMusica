@@ -3,7 +3,7 @@
 Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de implementación, además, ideas sobre como desarrollar aplicaciones a la composición musical de teorias matemáticas. 
 ---
 
-[Organismos musicales][divulgacion.md]
+[Organismos musicales](https://github.com/essteban/matematicasAplicadasMusica/blob/master/divulgacion.md)
 
   1.El silencio y la aleatoridad ambiental
     1.1 Noise
