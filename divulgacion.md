@@ -1,6 +1,6 @@
 # Organismos musicales
 
-### El silencio y la aleatoriedad ambiental
+### El silencio y la aleatoriedad 
 ### Autogeneración y evolución autónoma
 ### Estructuras autoreplicativas
 ***
