@@ -17,7 +17,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
   
 ###Composición asistida 
 
-  1.Música concreta
+  [1.Música concreta (grabación y secuenciadores)](https://github.com/electropipe/secuenciadores)
   
   2.Música microtonal 
   
