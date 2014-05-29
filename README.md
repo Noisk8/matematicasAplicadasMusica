@@ -11,7 +11,7 @@ Historia de las relaciones música-matemáticas, técnicas usadas y ejemplos de 
     
   [3.Autogeneración y evolución autonoma](https://github.com/essteban/matematicasAplicadasMusica/blob/master/generativa.md)
   
-  4.Música Fractal y estructuras autoreplicativas
+  [4.Música Fractal y estructuras autoreplicativas](https://github.com/essteban/matematicasAplicadasMusica/blob/master/fractal.md)
   
   [5.Música estocástica](https://github.com/essteban/matematicasAplicadasMusica/blob/master/musicaEstocastica.md)
   
